@@ -13,4 +13,16 @@
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
+    <!-- https://mvnrepository.com/artifact/junit/junit -->
+
+    <dependencies>
+    
+
+        <dependency>
+            <groupId>org.junit</groupId>
+            <artifactId>junit4-runner</artifactId>
+            <version>5.0.0-ALPHA</version>
+        </dependency>
+
+    </dependencies>
 </project>
